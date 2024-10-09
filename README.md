@@ -8,7 +8,7 @@ This project is created and intended to be used for the [Shopify Theme Developme
 [Get the course!](https://weeklyhow.com/) | [Lessons covered](#lessons-covered) |
 [How to use](#how-to-use) | [Not a student?](#not-a-student)
 
-## Lessons covered
+## Lessons coveredas
 
 Status | Lectures
 ------------ | -------------
@@ -25,7 +25,7 @@ Status | Lectures
 :heavy_check_mark: | Advanced Product Page
 :heavy_check_mark: | Search Page
 :hourglass: | More lessons coming
-
+ 
 ## How to use
 
 To use this repository for making Shopify themes, use the following command of Shopify CLI.
